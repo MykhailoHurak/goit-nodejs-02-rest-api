@@ -1,1 +1,1 @@
-# goit-nodejs-03-rest-api
+# goit-nodejs-02-rest-api
